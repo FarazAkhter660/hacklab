@@ -26,7 +26,7 @@ public:
         std::cout << "Go!" << std::endl;
         break;
     }
-
+// new comment 
     currentState = newState;
     switch (currentState) {
       case RED:
